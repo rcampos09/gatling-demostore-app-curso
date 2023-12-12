@@ -1,0 +1,22 @@
+# Maven
+target/
+
+# Gatling
+results/
+data/
+project/target/
+project/project/
+project/.settings/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+*.class
+*.log
+
+# Logs
+logs/
+*.log
+*.log.*
